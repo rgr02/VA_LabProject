@@ -1,0 +1,31 @@
+"","symbol","company","weight","sector","shares_held"
+"1","BA","Boeing Company",0.0814683028273844,"Industrials",5984499
+"2","GS","Goldman Sachs Group Inc.",0.0724037870298471,"Financials",5984499
+"3","MMM","3M Company",0.0664750370346126,"Industrials",5984499
+"4","UNH","UnitedHealth Group Incorporated",0.0625159829917803,"Health Care",5984499
+"5","HD","Home Depot Inc.",0.0510827749294472,"Consumer Discretionary",5984499
+"6","MCD","McDonald's Corporation",0.0483937549167227,"Consumer Discretionary",5984499
+"7","AAPL","Apple Inc.",0.0482448329827452,"Information Technology",5984499
+"8","IBM","International Business Machines Corporation",0.0440413280330346,"Information Technology",5984499
+"9","CAT","Caterpillar Inc.",0.0402986275517465,"Industrials",5984499
+"10","JNJ","Johnson & Johnson",0.0400682253175353,"Health Care",5984499
+"11","TRV","Travelers Companies Inc.",0.0377501142780473,"Financials",5984499
+"12","UTX","United Technologies Corporation",0.0346958187698012,"Industrials",5984499
+"13","CVX","Chevron Corporation",0.0336280796223933,"Energy",5984499
+"14","V","Visa Inc. Class A",0.0318803707092499,"Information Technology",5984499
+"15","DIS","Walt Disney Company",0.0301860447510061,"Consumer Discretionary",5984499
+"16","JPM","JPMorgan Chase & Co.",0.0300230641381844,"Financials",5984499
+"17","AXP","American Express Company",0.0279213166664177,"Financials",5984499
+"18","WMT","Wal-Mart Stores Inc.",0.0271710835249925,"Consumer Staples",5984499
+"19","PG","Procter & Gamble Company",0.0252463553325374,"Consumer Staples",5984499
+"20","MSFT","Microsoft Corporation",0.024046554659588,"Information Technology",5984499
+"21","XOM","Exxon Mobil Corporation",0.0232541755001615,"Energy",5984499
+"22","DWDP","DowDuPont Inc.",0.0198908091932393,"Materials",5984500
+"23","NKE","NIKE Inc. Class B",0.0174687339735439,"Consumer Discretionary",5984499
+"24","MRK","Merck & Co. Inc.",0.0160357193306144,"Health Care",5984499
+"25","VZ","Verizon Communications Inc.",0.01494550630941,"Telecommunication Services",5984499
+"26","KO","Coca-Cola Company",0.0127257359785917,"Consumer Staples",5984499
+"27","INTC","Intel Corporation",0.0121750059964518,"Information Technology",5984499
+"28","CSCO","Cisco Systems Inc.",0.010652075845982,"Information Technology",5984499
+"29","PFE","Pfizer Inc.",0.0102783751493309,"Health Care",5984499
+"30","GE","General Electric Company",0.0050324066556007,"Industrials",5984499
